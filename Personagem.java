@@ -53,10 +53,10 @@ public abstract class Personagem {
   }
   
   public abstract void passaTurno(){
-
+    
   }
 
-  public abstract void ataca(){
+  public abstract void ataca(Personagem p){
 
   }
   
